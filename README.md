@@ -27,3 +27,5 @@ Hub C (planned):
 
 - Thermocouple sensor for exhaust temperature
 - Engine RPM
+- i2c connector for more external i2c sensors supported by the Hub A firmware
+
