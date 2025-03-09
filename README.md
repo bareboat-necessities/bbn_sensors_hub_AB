@@ -14,6 +14,7 @@ Hub A is mostly environental sensors:
 - Illuminance
 - Motion detector
 - Hatch open/closed limit switch sensor
+- i2c connector for more external i2c sensors supported by the Hub A firmware
 
 Hub B is for electrical and liquid level sensors:
 
