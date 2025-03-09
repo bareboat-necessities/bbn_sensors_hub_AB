@@ -22,3 +22,8 @@ Hub B is for electrical and liquid level sensors:
 - Resistance sensor for fuel level, engine oil pressure, rudder position, or trim
 - Water quality sensor
 - Liquid level (0-20 mAmps)
+
+Hub C (planned):
+
+- Thermocouple sensor for exhaust temperature
+- Engine RPM
