@@ -30,3 +30,10 @@ Hub C (planned):
 - Resistance sensor for fuel level, engine oil pressure, rudder position, or trim
 - i2c connector for more external i2c sensors supported by the Hub A firmware
 
+Alarm Box A (planned):
+
+- Bilge level using ultrasonic range sensor
+- Battery voltage
+- Ethernet interface
+- Alarms sent via WhatsApp
+- Without alarms configured acts as NMEA XDR sender
