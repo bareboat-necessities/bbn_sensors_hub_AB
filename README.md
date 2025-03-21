@@ -37,6 +37,20 @@ Hub B is for electrical and liquid level sensors:
 - Water quality sensor
 - Liquid level (0-20 mAmps)
 
+
+## Other Bareboat Necessities Devices
+
+https://github.com/bareboat-necessities/bbn_alarms_A
+
+Alarm Box A: 
+
+- Bilge level using ultrasonic range sensor
+- Battery voltage
+- Ethernet interface
+- Alarms sent via WhatsApp
+- Without alarms configured acts as NMEA XDR sender
+
+
 Hub C (planned):
 
 - Thermocouple sensor for exhaust temperature
@@ -44,10 +58,3 @@ Hub C (planned):
 - Resistance sensor for fuel level, engine oil pressure, rudder position, or trim
 - i2c connector for more external i2c sensors supported by the Hub A firmware
 
-Alarm Box A (planned):
-
-- Bilge level using ultrasonic range sensor
-- Battery voltage
-- Ethernet interface
-- Alarms sent via WhatsApp
-- Without alarms configured acts as NMEA XDR sender
