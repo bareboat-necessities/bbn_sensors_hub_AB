@@ -5,10 +5,14 @@ BBN NMEA XDR sensors hub esp32 hardware
 <img src="./img/bbn_boat_sensors_hubAB_notes.jpg?raw=true" style="width: 75%; height: auto;" alt="BBN HubAB pic1" />
 </p>
 
+<p align="center">
+<img src="./img/bbn_boat_sensors_hubAB_5.jpg?raw=true" style="width: 40%; height: auto;" alt="BBN HubAB pic2" />
+<img src="./img/bbn_boat_sensors_hubAB_2.jpg?raw=true" style="width: 40%; height: auto;" alt="BBN HubAB pic3" />
+</p>
 
 <p align="center">
 <img src="./img/bbn_boat_sensors_hubAB_10.jpg?raw=true" style="width: 40%; height: auto;" alt="BBN HubAB pic2" />
-<img src="./img/bbn_boat_sensors_hubAB_2.jpg?raw=true" style="width: 40%; height: auto;" alt="BBN HubAB pic3" />
+<img src="./img/bbn_boat_sensors_hubAB_7.jpg?raw=true" style="width: 40%; height: auto;" alt="BBN HubAB pic3" />
 </p>
 
 ## Hardware
