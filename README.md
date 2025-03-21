@@ -1,6 +1,11 @@
 # bbn_sensors_hub_AB
 BBN NMEA XDR sensors hub esp32 hardware 
 
+<p align="center">
+<img src="./img/bbn_boat_sensors_hubAB_notes.jpg?raw=true" style="width: 75%; height: auto;" alt="BBN HubAB pic1" />
+</p>
+
+
 ## Hardware
 
 It's really two devices in one. Both use atomS3-lite esp32s3 microcontroller from m5stack.
