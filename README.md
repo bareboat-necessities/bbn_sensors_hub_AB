@@ -37,7 +37,7 @@ Hub B is for electrical and liquid level sensors:
 - Water quality (TDS - Total Dissolved Solids) sensor
 - Liquid level (0-20 mAmps)
 
-### Placing in a box
+### Enclosure, etc
 
 - Waterproof box. Hinged with stainless steel hardware, transparent lid, base plate and legs
 - Various cable glands
