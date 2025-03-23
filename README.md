@@ -50,6 +50,15 @@ Hub B is for electrical and liquid level sensors:
 
 For all supported hardware and software of Hub A firmware look here:   https://github.com/bareboat-necessities/bbn_sensors_hub_A
 
+### Making Connections for Hub A
+
+TODO:
+
+### Loading Firmware for Hub A
+
+TODO:
+
+
 
 ## Liquid Levels and Electrical Sensors (Hub B)
 
@@ -59,6 +68,16 @@ For all supported hardware and software of Hub A firmware look here:   https://g
 - Resistance sensor 240-33 ohms or 10-180 ohms for fuel level, engine oil pressure, rudder position, or trim (Not on the picture but supported by Hub B firmware)
 
 For all supported hardware and software of Hub B firmware look here:   https://github.com/bareboat-necessities/bbn_sensors_hub_B
+
+### Making Connections for Hub B
+
+TODO:
+
+### Loading Firmware for Hub B
+
+TODO:
+
+
 
 ## Other Bareboat Necessities Devices
 
