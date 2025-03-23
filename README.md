@@ -39,13 +39,13 @@ Hub B is for electrical and liquid level sensors:
 
 ## Environmental Sensors (Hub A)
 
-- Lightning strike detector AS3935: https://www.dfrobot.com/product-1828.html
-- Barometer via i2c DPS310: https://www.adafruit.com/product/4494 (DPS310 on the picture but several others are supported by firmware too)   
-- Temperature/Humidity SHTC3: https://www.aliexpress.us/item/3256807428285646.html (SHTC3 as pictured but others SHT30, DHT12, some more supported by firmware too)
-- Multiple 1-wire waterproof temperature probes DS18B20: https://gikfun.com/products/gikfun-ds18b20-waterproof-digital-temperature-sensor-with-adapter-module-for-arduino-pack-of-3-sets (via DS18B20 with GikFun plugin terminal board)
-- Illuminance M5Stack DLight: https://shop.m5stack.com/products/dlight-unit-ambient-light-sensor-bh1750fvi-tr (Placed and connected via i2c outside of the box)
-- Motion detector PIR Unit from m5stack AS312: https://shop.m5stack.com/products/pir-module (Placed outside of the box)
-- Hatch open/closed limit switch sensor https://shop.m5stack.com/products/limit-switch-unit (Limit Switch Unit from m5stack placed outside of the box)
+- Lightning strike detector __AS3935__: https://www.dfrobot.com/product-1828.html
+- Barometer via i2c __DPS310__: https://www.adafruit.com/product/4494 (DPS310 on the picture but several others are supported by firmware too)   
+- Temperature/Humidity __SHTC3__: https://www.aliexpress.us/item/3256807428285646.html (SHTC3 as pictured but others SHT30, DHT12, some more supported by firmware too)
+- Multiple 1-wire waterproof temperature probes __DS18B20__: https://gikfun.com/products/gikfun-ds18b20-waterproof-digital-temperature-sensor-with-adapter-module-for-arduino-pack-of-3-sets (via DS18B20 with GikFun plugin terminal board)
+- Illuminance __M5Stack DLight BH1750FVI-TR__: https://shop.m5stack.com/products/dlight-unit-ambient-light-sensor-bh1750fvi-tr (Placed and connected via i2c outside of the box)
+- Motion detector __M5Stack PIR Unit AS312__: https://shop.m5stack.com/products/pir-module (Placed outside of the box)
+- Hatch open/closed limit switch sensor https://shop.m5stack.com/products/limit-switch-unit (__Limit Switch Unit from m5stack__ placed outside of the box)
 - i2c connector for more external i2c sensors supported by the Hub A firmware (See: https://github.com/bareboat-necessities/bbn_sensors_hub_A)
 
 For all supported hardware and software of Hub A firmware look here:   https://github.com/bareboat-necessities/bbn_sensors_hub_A
