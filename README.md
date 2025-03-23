@@ -37,6 +37,14 @@ Hub B is for electrical and liquid level sensors:
 - Water quality sensor
 - Liquid level (0-20 mAmps)
 
+## Environmental Sensors (Hub A)
+
+For hardware and software of Hub A look here:   https://github.com/bareboat-necessities/bbn_sensors_hub_A
+
+
+## Liquid Levels and Electrical Sensors (Hub B)
+
+For hardware and software of Hub B look here:   https://github.com/bareboat-necessities/bbn_sensors_hub_B
 
 ## Other Bareboat Necessities Devices
 
