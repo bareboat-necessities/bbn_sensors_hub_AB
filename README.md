@@ -39,7 +39,10 @@ Hub B is for electrical and liquid level sensors:
 
 ### Boxing
 
-- Waterproof box. Hinged with stainless steel hardware, transparent lid, mounting plate and legs
+- Waterproof box. Hinged with stainless steel hardware, transparent lid, base plate and legs
+- Various cable glands
+- Grove cables from m5stack
+- M3 standoffs
 
 ## Environmental Sensors (Hub A)
 
