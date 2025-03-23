@@ -40,7 +40,7 @@ Hub B is for electrical and liquid level sensors:
 ## Environmental Sensors (Hub A)
 
 - Lightning strike detector __AS3935__: https://www.dfrobot.com/product-1828.html
-- Barometer via i2c __DPS310__: https://www.adafruit.com/product/4494 (DPS310 on the picture but several others are supported by firmware too)   
+- Barometer via i2c __DPS310__: https://www.adafruit.com/product/4494 (DPS310 inside the box on the picture but several others are supported by firmware too)   
 - Temperature/Humidity __SHTC3__: https://www.aliexpress.us/item/3256807428285646.html (SHTC3 as pictured but others SHT30, DHT12, some more supported by firmware too)
 - Multiple 1-wire waterproof temperature probes __DS18B20__: https://gikfun.com/products/gikfun-ds18b20-waterproof-digital-temperature-sensor-with-adapter-module-for-arduino-pack-of-3-sets (via DS18B20 with GikFun plugin terminal board)
 - Illuminance __M5Stack DLight BH1750FVI-TR__: https://shop.m5stack.com/products/dlight-unit-ambient-light-sensor-bh1750fvi-tr (Placed and connected via i2c outside of the box)
