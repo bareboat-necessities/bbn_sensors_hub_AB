@@ -65,7 +65,9 @@ For all supported hardware and software of Hub A firmware look here:   https://g
 
 ### Making Connections for Hub A
 
-TODO:
+For pins used in connections browse through the firmware code: https://github.com/bareboat-necessities/bbn_sensors_hub_A
+
+M5Stack connectors are well color coded and pins are labeled on m5stack portABC.
 
 ### Loading Firmware for Hub A
 
@@ -86,7 +88,9 @@ For all supported hardware and software of Hub B firmware look here:   https://g
 
 ### Making Connections for Hub B
 
-TODO:
+For pins used in connections browse through the firmware code: https://github.com/bareboat-necessities/bbn_sensors_hub_B
+
+M5Stack connectors are well color coded and pins are labeled on m5stack portABC.
 
 ### Loading Firmware for Hub B
 
