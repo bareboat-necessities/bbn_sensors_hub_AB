@@ -77,5 +77,6 @@ Hub C (planned):
 - Thermocouple sensor for exhaust temperature
 - Engine RPM
 - Resistance sensor for fuel level, engine oil pressure, rudder position, or trim
+- IR Open Flame sensor
 - i2c connector for more external i2c sensors supported by the Hub A firmware
 
