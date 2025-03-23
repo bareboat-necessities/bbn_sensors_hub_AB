@@ -71,7 +71,35 @@ M5Stack connectors are well color coded and pins are labeled on m5stack portABC.
 
 ### Loading Firmware for Hub A
 
+### On Bareboat Necessities (BBN) OS (full)
+
+Long press side button on atomS3 till you see green to enter the mode for uploading firmware.
+
+NOTE: /dev/ttyACM1 in the script below is for example. In your case device name might be different. You can find out what it is by
+inspecting differences in output of 
+
+```
+ls -ltr /dev/tty*
+```
+
+with the device unplugged from USB and plugged into USB.
+
+
+#### Load the firmware:
+
+````
 TODO:
+````
+
+Unplug and plug the device into USB to reboot.
+
+### Reading serial port
+
+````
+stty -F /dev/ttyACM1 115200
+socat stdio /dev/ttyACM1
+````
+
 
 
 
@@ -94,7 +122,34 @@ M5Stack connectors are well color coded and pins are labeled on m5stack portABC.
 
 ### Loading Firmware for Hub B
 
+### On Bareboat Necessities (BBN) OS (full)
+
+Long press side button on atomS3 till you see green to enter the mode for uploading firmware.
+
+NOTE: /dev/ttyACM1 in the script below is for example. In your case device name might be different. You can find out what it is by
+inspecting differences in output of 
+
+```
+ls -ltr /dev/tty*
+```
+
+with the device unplugged from USB and plugged into USB.
+
+
+#### Load the firmware:
+
+````
 TODO:
+````
+
+Unplug and plug the device into USB to reboot.
+
+### Reading serial port
+
+````
+stty -F /dev/ttyACM1 115200
+socat stdio /dev/ttyACM1
+````
 
 
 
