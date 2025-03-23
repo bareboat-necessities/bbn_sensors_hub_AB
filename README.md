@@ -65,15 +65,11 @@ For all supported hardware and software of Hub B firmware look here:   https://g
 Project Home:  https://bareboat-necessities.github.io/
 
 
-https://github.com/bareboat-necessities/bbn_alarms_A
-
-Alarm Box A: 
-
-- Bilge level using ultrasonic range sensor
-- Battery voltage
-- Ethernet interface
-- Alarms sent via WhatsApp
-- Without alarms configured acts as NMEA XDR sender
+- Alarms Box: https://github.com/bareboat-necessities/bbn_alarms_A
+- NMEA N2K to USB: https://github.com/bareboat-necessities/bbn-m5-s3-n2k-usb
+- Instruments Displays on esp32: https://github.com/bareboat-necessities/bbn-m5stack-tough
+- Boat Heave Sensor: https://github.com/bareboat-necessities/bbn-wave-period-esp32
+- I2C over USB for Linux: https://github.com/bareboat-necessities/bbn-i2c-over-usb
 
 
 Hub C (planned):
