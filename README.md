@@ -44,6 +44,7 @@ Hub B is for electrical and liquid level sensors:
 - Grove cables from m5stack
 - M3 standoffs
 - __In-Sure lever wire connectors__ for splicing wires (3-Port and 5-port): https://www.idealind.com/us/en/category/product.html/In_Sure_Lever_5_Port.html
+- Cable ties
 
 ## Environmental Sensors (Hub A)
 
