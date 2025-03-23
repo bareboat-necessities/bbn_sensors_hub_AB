@@ -187,11 +187,3 @@ Project Home:  https://bareboat-necessities.github.io/
 - I2C over USB for Linux: https://github.com/bareboat-necessities/bbn-i2c-over-usb
 
 
-Hub C (planned):
-
-- Thermocouple sensor for exhaust temperature
-- Engine RPM
-- Resistive sensors 240-33 ohms or 10-180 ohms support for fuel level, engine oil pressure, rudder position, or trim
-- IR Open Flame sensor
-- i2c connector for more external i2c sensors supported by the Hub A firmware
-
