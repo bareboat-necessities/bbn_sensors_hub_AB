@@ -37,6 +37,10 @@ Hub B is for electrical and liquid level sensors:
 - Water quality (TDS - Total Dissolved Solids) sensor
 - Liquid level (0-20 mAmps)
 
+### Boxing
+
+- Waterproof box. Hinged with stainless steel hardware, transparent lid, mounting plate and legs
+
 ## Environmental Sensors (Hub A)
 
 - Lightning strike detector __AS3935__: https://www.dfrobot.com/product-1828.html (Placed inside the box)
