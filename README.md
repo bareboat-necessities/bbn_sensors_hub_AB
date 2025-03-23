@@ -39,6 +39,15 @@ Hub B is for electrical and liquid level sensors:
 
 ## Environmental Sensors (Hub A)
 
+- Lightning strike detector AS3935: https://www.dfrobot.com/product-1828.html
+- Barometer via i2c (DPS310 on the picture but several others are supported by firmware too)   
+- Temperature/Humidity (SHTC3 as pictured but others SHT30, DHT12, some more supported by firmware too)
+- Multiple 1-wire waterproof temperature probes (via DS18B20 with GikFun plugin terminal board)
+- Illuminance M5Stack DLight (Connected via i2c outside of the box)
+- Motion detector PIR Unit from m5stack (Connected outside of the box)
+- Hatch open/closed limit switch sensor (Limit Switch Unit from m5stack connected outside of the box)
+- i2c connector for more external i2c sensors supported by the Hub A firmware
+
 For hardware and software of Hub A look here:   https://github.com/bareboat-necessities/bbn_sensors_hub_A
 
 
