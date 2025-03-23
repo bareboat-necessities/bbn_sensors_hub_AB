@@ -67,7 +67,7 @@ TODO:
 - Current/Voltage/Power __INA219__ sensors: https://www.adafruit.com/product/904 (Two inside the box as on the picture but more are supported by the firmware)
 - Water quality __Ocean TDS Total Dissolved Solids sensor__:  https://www.cqrobot.com/index.php?route=product/product&product_id=1122
 - Liquid level (0-20 mAmps) __M5Stack Ammeter ADS1115 Unit__ https://shop.m5stack.com/products/ammeter-unit-ads1115 and __Submersible Stainless Steel 0-20 mA Liquid Level Sensor__: https://www.aliexpress.us/item/3256807215987468.html
-- Resistance sensor 240-33 ohms or 10-180 ohms for fuel level, engine oil pressure, rudder position, or trim (Not on the picture but supported by Hub B firmware)
+- Resistive sensors 240-33 ohms or 10-180 ohms for fuel level, engine oil pressure, rudder position, or trim (Not on the picture but supported by Hub B firmware)
 - __ATOMIC PortABC Extension Base__ to expose esp32 ports: https://shop.m5stack.com/products/atomic-portabc-extension-base
 
 For all supported hardware and software of Hub B firmware look here:   https://github.com/bareboat-necessities/bbn_sensors_hub_B
