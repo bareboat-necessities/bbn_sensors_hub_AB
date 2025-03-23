@@ -85,7 +85,7 @@ ls -ltr /dev/tty*
 with the device unplugged from USB and plugged into USB.
 
 
-#### Load the firmware:
+#### Load the hub A firmware:
 
 ````
 TODO:
@@ -96,7 +96,7 @@ Unplug and plug the device into USB to reboot.
 ### Reading serial port
 
 ````
-stty -F /dev/ttyACM1 115200
+stty -F /dev/ttyACM1 38400
 socat stdio /dev/ttyACM1
 ````
 
@@ -153,7 +153,7 @@ Unplug and plug the device into USB to reboot.
 ### Reading serial port
 
 ````
-stty -F /dev/ttyACM1 115200
+stty -F /dev/ttyACM1 38400
 socat stdio /dev/ttyACM1
 ````
 
