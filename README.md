@@ -43,6 +43,7 @@ Hub B is for electrical and liquid level sensors:
 - Various cable glands
 - Grove cables from m5stack
 - M3 standoffs
+- __ In-Sure lever wire connectors __ for splicing wires
 
 ## Environmental Sensors (Hub A)
 
