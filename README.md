@@ -34,7 +34,7 @@ Hub B is for electrical and liquid level sensors:
 
 - Current/Voltage/Power sensors
 - Resistance sensor for fuel level, engine oil pressure, rudder position, or trim
-- Water quality sensor
+- Water quality (TDS - Total Dissolved Solids) sensor
 - Liquid level (0-20 mAmps)
 
 ## Environmental Sensors (Hub A)
