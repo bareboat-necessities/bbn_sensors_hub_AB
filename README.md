@@ -46,6 +46,7 @@ Hub B is for electrical and liquid level sensors:
 - __In-Sure lever wire connectors__ for splicing wires (3-Port and 5-port): https://www.idealind.com/us/en/category/product.html/In_Sure_Lever_5_Port.html
 - Cable ties
 - __Grove2Dupont Conversion Cables__: https://shop.m5stack.com/products/grove2dupont-conversion-cable-20cm-5pairs
+- USB-C to USB-A cables with small support tang on USB-C end
 
 ## Environmental Sensors (Hub A)
 
