@@ -88,7 +88,13 @@ with the device unplugged from USB and plugged into USB.
 #### Load the hub A firmware:
 
 ````
-TODO:
+# shutdown signalk
+sudo systemctl stop signalk
+
+if [ -f bbn-flash-sensors-hub-A.sh ]; then rm bbn-flash-sensors-hub-A.sh; fi
+wget https://raw.githubusercontent.com/bareboat-necessities/my-bareboat/refs/heads/master/m5stack-tools/bbn-flash-sensors-hub-A.sh
+chmod +x bbn-flash-sensors-hub-A.sh 
+./bbn-flash-sensors-hub-A.sh -p /dev/ttyACM1
 ````
 
 Unplug and plug the device into USB to reboot.
