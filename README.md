@@ -139,7 +139,13 @@ with the device unplugged from USB and plugged into USB.
 #### Load the firmware:
 
 ````
-TODO:
+# shutdown signalk
+sudo systemctl stop signalk
+
+if [ -f bbn-flash-sensors-hub-B.sh ]; then rm bbn-flash-sensors-hub-B.sh; fi
+wget https://raw.githubusercontent.com/bareboat-necessities/my-bareboat/refs/heads/master/m5stack-tools/bbn-flash-sensors-hub-B.sh
+chmod +x bbn-flash-sensors-hub-B.sh
+./bbn-flash-sensors-hub-B.sh -p /dev/ttyACM1
 ````
 
 Unplug and plug the device into USB to reboot.
