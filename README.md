@@ -163,6 +163,16 @@ stty -F /dev/ttyACM1 38400
 socat stdio /dev/ttyACM1
 ````
 
+## Integration with SignalK
+
+Integration with SignalK is done via NMEA XDR Parser SignalK plugin.
+
+More: https://github.com/GaryWSmith/xdr-parser-plugin
+
+Recommended config file for XDR Parser SignalK plugin:
+
+https://github.com/bareboat-necessities/lysmarine_gen/blob/bookworm/install-scripts/4-server/files/xdrParser-plugin.json
+
 
 
 ## Other Bareboat Necessities Devices
