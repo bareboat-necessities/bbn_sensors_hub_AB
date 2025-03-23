@@ -48,6 +48,7 @@ Hub B is for electrical and liquid level sensors:
 - Hatch open/closed limit switch sensor https://shop.m5stack.com/products/limit-switch-unit (__Limit Switch Unit from m5stack__ placed outside of the box)
 - i2c connector for more external i2c sensors supported by the Hub A firmware (See: https://github.com/bareboat-necessities/bbn_sensors_hub_A)
 - __ATOMIC PortABC Extension Base__ to expose esp32 ports: https://shop.m5stack.com/products/atomic-portabc-extension-base
+- __M5Stack 1 to 3 HUB Expansion Unit__: https://shop.m5stack.com/products/mini-hub-module
 
 For all supported hardware and software of Hub A firmware look here:   https://github.com/bareboat-necessities/bbn_sensors_hub_A
 
