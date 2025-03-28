@@ -181,6 +181,7 @@ Project Home:  https://bareboat-necessities.github.io/
 
 
 - Alarms Box: https://github.com/bareboat-necessities/bbn_alarms_A
+- Engine Sensors Box: https://github.com/bareboat-necessities/bbn_sensors_hub_C
 - NMEA N2K to USB: https://github.com/bareboat-necessities/bbn-m5-s3-n2k-usb
 - Instruments Displays on esp32: https://github.com/bareboat-necessities/bbn-m5stack-tough
 - Boat Heave Sensor: https://github.com/bareboat-necessities/bbn-wave-period-esp32
